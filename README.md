@@ -98,20 +98,6 @@ The analysis demonstrated how statistical visualization and data analytics techn
 
 ---
 
-# Repository Structure
-
-```text id="jlwm108"
-global-youtube-performance-analytics/
-│
-├── Global_YouTube_Statistics_EDA.ipynb
-├── README.md
-├── requirements.txt
-├── LICENSE
-└── images/
-```
-
----
-
 # Dataset
 
 Dataset used for this project:
