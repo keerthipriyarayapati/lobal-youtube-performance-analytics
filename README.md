@@ -135,10 +135,3 @@ jupyter notebook
 * Predictive modeling for subscriber growth
 * Sentiment analysis on audience engagement
 * Deployment using Streamlit or Flask
-
----
-
-# Author
-
-**Keerthi Priya**
-Computer Engineering (Data Science) Student
